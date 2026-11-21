@@ -62,8 +62,8 @@ Utilizaremos GitHub Projects para organizar las historias de usuario y dar segui
 Repositorio de GitHub:
 https://github.com/keriotmartinez-eng/Edu-s-cafe
 
-Tablero de GitHub Projects:
-Pendiente de agregar.
+Tablero de Trello:
+https://trello.com/invite/b/6b010468b770fb20804baed9/ATTI8e152d89149b1b6ea0745a252510f71a93EC2B8B/edus-cafe
 
 Diseños de Figma:
 Pendiente de agregar.
