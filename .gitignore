@@ -10,3 +10,8 @@ node_modules/
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
